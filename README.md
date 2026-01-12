@@ -25,5 +25,5 @@ if(arr[j] == key){
 	else {
 		printf("%d not found\n", key);
 	}
-}
+} 
 
